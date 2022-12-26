@@ -1,0 +1,145 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1.title-name {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0px 200px;
+}
+
+/* Colour Container*/
+.body-1 {
+    border: 4px solid grey;
+    margin: 20px 200px;
+}
+
+.title-body-1 {
+    margin-left: 10px;
+}
+
+.colour-container {
+    width:100%;
+}
+
+.colour-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.mg {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+/* Font Container*/
+.body-2 {
+    border: 4px solid grey;
+    margin: 20px 200px;
+}
+
+.title-body-2 {
+    margin-left: 10px;
+}
+
+.font-container {
+    width: 100%;
+}
+
+.font-panel {
+    display: inline-block; 
+    margin: 20px 10px;
+}
+
+.font-label-1 {
+    text-decoration: underline;
+    font-family: 'Space Mono', monospace;
+}
+
+.font-normal-1 {
+    font-family: 'Space Mono', monospace;
+}
+
+.font-bold-1 {
+    font-weight: bold;
+    font-family: 'Space Mono', monospace;
+}
+
+.font-italics-1 {
+    font-style: italic;
+    font-family: 'Space Mono', monospace;
+}
+
+.font-label-2 {
+    text-decoration: underline;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.font-normal-2 {
+    font-family: 'Work Sans', sans-serif;
+}
+    
+.font-bold-2 {
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+}
+    
+.font-italics-2 {
+    font-style: italic;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.font-label-3 {
+    text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-normal-3 {
+    font-family: 'Poppins', sans-serif;
+}
+    
+.font-bold-3 {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+    
+.font-italics-3 {
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Heading Container*/
+.body-3 {
+    border: 4px solid grey;
+    margin: 20px 200px;
+}
+
+.title-body-3 {
+    margin-left: 10px;
+}
+
+.main-heading {
+    margin-left: 10px;
+}
+
+.subheading {
+    margin-left: 10px;
+}
+
+.paragraph {
+    margin-left: 10px;
+}
